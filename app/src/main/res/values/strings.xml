@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">연인</string>
+    <string name="url">https://www.itforone.co.kr/~lover/</string>
+    <string name="domain">https://www.itforone.co.kr/~lover</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="default_notification_channel_id">lover</string>
+    <!--<string name="facebook_app_id">585329219040118</string>-->
+    <string name="facebook_app_id">147588533802774</string>
+    <string name="fb_login_protocol_scheme">bb437358ba17514d45c2dc5dd02808fd</string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761688726689",
+    "firebase_url": "https://lover2.firebaseio.com",
+    "project_id": "lover2",
+    "storage_bucket": "lover2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761688726689:android:b855b90b242c64f5b1e4e0",
+        "android_client_info": {
+          "package_name": "kr.co.itforone.lover2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761688726689-vqao1vcc9dsci11fa6463q4valsp65vr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.itforone.lover2",
+            "certificate_hash": "fa9657941484e644a70bbf4492602012dfcf85f2"
+          }
+        },
+        {
+          "client_id": "761688726689-863e4nsr0j6ve6t6etpg44q5hg9ekk8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnJjcqhqjc89cLaB0XCJATNRrOvoVKScY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761688726689-863e4nsr0j6ve6t6etpg44q5hg9ekk8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
